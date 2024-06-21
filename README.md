@@ -1,4 +1,5 @@
-# <header>
+# Esto es un h1
+<header>
 
 <!--
   <<< Author notes: Course header >>>
